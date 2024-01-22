@@ -1,2 +1,2 @@
 # odin-recipes
-A website containing recipes of dishes
+This website helps build basic HTML skills.
