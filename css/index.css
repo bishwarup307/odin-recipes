@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-image: url("../images/background.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 100px;
+}
+
+.title-text {
+    color: white;
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+    margin: 0;
+}
+
+.subheader-text {
+    color: wheat;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 40px;
+}
+
+ul li {
+    margin-bottom: 25px;
+}
+
+ul a {
+    text-decoration: none;
+    color: rgb(224, 224, 224);
+    font-size: 25px;
+    line-height: 30px;
+    border-bottom: 3px ridge white;
+    padding-bottom: 4px;
+}
